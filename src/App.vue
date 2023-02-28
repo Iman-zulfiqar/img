@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      images:['../bree.jpg','./src/assets/el.jpg',"./src/assets/klara.jpg","./src/assets/nikita.jpg"]
+      images:['./bree.jpg','./el.jpg',"./klara.jpg","./nikita.jpg"]
     }
   },
 }
