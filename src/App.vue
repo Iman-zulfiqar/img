@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      images:['./src/assets/bree.jpg','./src/assets/el.jpg',"./src/assets/klara.jpg","./src/assets/nikita.jpg"]
+      images:["https://www.jquery-az.com/html/images/banana.jpg",'./src/assets/el.jpg',"./src/assets/klara.jpg","./src/assets/nikita.jpg"]
     }
   },
 }
